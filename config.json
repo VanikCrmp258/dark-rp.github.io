@@ -1,0 +1,27 @@
+{
+    "launcher_version": 1,
+    "client_version": 42,
+    "launcher_sign": "Ye03foXThqjf7muGS9hbC/qlr4E=",
+    "shop_url": "https://matrp.ru/donate",
+    "client_url": "https://s710sas.storage.yandex.net/rdisk/7adc419dc319cf3362ece80b4850cc409de2c913278f95b66b0cb0778ffd4758/60e88317/1TaR3GW9U3sNmU8TWtSz5EyNIsjgFyR2f8lC9lAuKUHRlQPLbGPyxFVdICWWocFy_h4TdfHY8afZv8sDNMoR5A==?uid=0&filename=iagei.apk&disposition=attachment&hash=HO8Hoyvk5VMbrYWPtiuNuiO4ZGzRf0cHJ/nnOxbJegA4xJxVii1o%2BwWtGi%2BUpuabq/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=application%2Fjava-archive&owner_uid=900672794&fsize=17381564&hid=9e9a7fe5736af1bae2b3312edc6f87dc&media_type=unknown&tknv=v2&rtoken=g2vWCWKBMSZc&force_default=no&ycrid=na-f88c096dc4fe132a6daa402acce1b0a4-downloader19h&ts=5c6b3da45b3c0&s=8aaba74c564590dc1396be71e1d87ba052d0af8c5ef49116894b1e38265dac71&pb=U2FsdGVkX1-umm46-va3uZORhI-ZB57CBndPUnBLfNOHnJFwOzoX_7UBngHBBwJ8H7iCrmzn4ismITuPbjOCMClvL80lhaCMulUPRW5I4EY",
+    "launcher_url": "https://vanikcrmp258.github.io/dark-rp.github.io/launcher.apk",
+    "files_list": "https://moblauncher.matrp.ru/files_list.json",
+    "servers_list": "https://vanikcrmp258.github.io/dark-rp.github.io/servers.json",
+    "cache":[
+        {
+            "url" : "https://cdn.matrp.ru/matrp_mobile/archives/dxt/cache_dxt.zip",
+            "archive_count" : 3
+        },
+        {
+            "url" : "https://cdn.matrp.ru/matrp_mobile/archives/pvr/cache_pvr.zip",
+            "archive_count" : 3
+        },
+        {
+            "url" : "https://cdn.matrp.ru/matrp_mobile/archives/etc/cache_etc.zip",
+            "archive_count" : 3
+        },
+        {   "url": "https://vanikcrmp258.github.io/dark-rp.github.io/dop.zip"
+            "archive_count" : 3
+         }
+    ]
+}
